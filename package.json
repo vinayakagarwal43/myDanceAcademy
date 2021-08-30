@@ -1,0 +1,21 @@
+{
+  "name": "dancewebsite",
+  "version": "1.0.0",
+  "description": "This is my first dance website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dance"
+  ],
+  "author": "vinayak",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.13.7",
+    "nodemon": "^2.0.12",
+    "pug": "^3.0.2"
+  }
+}
